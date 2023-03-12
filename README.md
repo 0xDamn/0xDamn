@@ -1,4 +1,5 @@
 ### Hi there 👋
+For more info about me, please see https://0xdamn.github.io/0xDamn
 
 <!--
 **0xDamn/0xDamn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
