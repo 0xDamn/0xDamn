@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Taltorzy👋
 For more info about me, please see https://0xdamn.github.io/0xDamn
 
 <!--
